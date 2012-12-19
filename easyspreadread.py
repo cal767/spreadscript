@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------------------
-# Name:        nomorespreadsheets.py
+# Name:        easyspreadread.py
 # Purpose:
 #
 # Author:      Calum Leslie
